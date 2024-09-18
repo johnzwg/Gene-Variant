@@ -1,0 +1,397 @@
+id,Association,Population,Variant,Gene,PubMed
+1,non-significant,Dutch,HLA-B40,HLA-B,1859103
+2,non-significant,Dutch,HLA-DRB5,HLA-DRB5,1859103
+3,non-significant,Finnish,APOB,APOB,8018664
+4,significant,Finnish,APOC3,APOC3,8018664
+5,significant,Finnish,E2/E3/E4,APOE,8018664
+6,significant,French,I/D,ACE,8136829
+8,significant,Finnish,APOB,APOB,8155090
+9,significant,Finnish,E2/E3/E4,APOE,8155090
+10,significant,Swedish,E2/E3/E4,APOE,8403397
+11,non-significant,Italian,E2/E3/E4,APOE,8541369
+12,significant,Italian,APOB,APOB,9050915
+13,significant,"English (Cambridge)",I/D,ACE,9105559
+14,significant,"English (Cambridge)",APOC1,APOC1,9105559
+15,non-significant,"English (Cambridge)",E2/E3/E4,APOE,9105559
+16,non-significant,"English (Cambridge)",677C/T,MTHFR,9105559
+17,non-significant,Italian,R353Q,F7,9108791
+18,non-significant,Italian,-455G/A,FGB,9108791
+19,significant,Italian,"1-bp guanine deletion/insertion (4G/5G)",SERPINE1,9108791
+20,non-significant,Danish,I/D,ACE,9170397
+21,non-significant,Spanish,CYP2D6,CYP2D6,9177672
+22,non-significant,Spanish,CYP2E1,CYP2E1,9177672
+23,non-significant,Spanish,NAT2,NAT2,9177672
+24,significant,French,HLA-DRB1,HLA-DRB1,9425225
+25,non-significant,French,APOA4,APOA4,9533408
+27,non-significant,French,GSTM1,GSTM1,9654200
+28,significant,French,I/D,ACE,9761238
+29,significant,"English (Caucasian) and Nigerian",638G/A,SULT1A1,9854023
+30,non-significant,Italian,PARP1,PARP1,9887369
+31,non-significant,Italian,REN,REN,9887369
+32,non-significant,Italian,401C/T,SOD2,9887369
+33,significant,Italian,TH,TH,9887369
+34,non-significant,"Finnish, American, Mexican and Japanese",C1367R,WRN,10069711
+35,non-significant,Italian,CFB,CFB,10219002
+36,non-significant,Italian,C3,C3,10219002
+37,non-significant,Italian,C4A,C4A,10219002
+38,non-significant,Danish,I/D,ACE,10494771
+39,non-significant,Danish,M/T235,AGT,10494771
+40,non-significant,Danish,20210G/A,F2,10494771
+41,non-significant,Danish,R353Q,F7,10494771
+42,non-significant,Danish,-455G/A,FGB,10494771
+43,non-significant,Danish,33L/P,ITGB3,10494771
+44,non-significant,Danish,114A/V,MTHFR,10494771
+45,non-significant,Danish,PLAT,PLAT,10494771
+46,non-significant,Danish,"1-bp guanine deletion/insertion (4G/5G)",SERPINE1,10494771
+47,non-significant,Dutch,I/D,ACE,10520809
+48,non-significant,Dutch,"1-bp guanine deletion/insertion (4G/5G)",SERPINE1,10520809
+49,non-significant,Swiss,C677T,MTHFR,10583447
+50,non-significant,"Italian (Northern)",CYP1A1,CYP1A1,11162685
+51,non-significant,"Italian (Northern)",GSTM1,GSTM1,11162685
+52,significant,"Italian (Northern)",GSTT1,GSTT1,11162685
+53,significant,Russian,T-455C,APOC3,11193221
+54,significant,Finnish,E2/E3/E4,APOE,11213279
+55,non-significant,French,I/D,ACE,11280044
+56,significant,French,E2/E3/E4,APOE,11280044
+57,non-significant,"German ","1-bp guanine deletion/insertion (4G/5G)",SERPINE1,11485022
+58,significant,Italian,-174C/G,IL6,11500818
+59,non-significant,"American (Caucasian)",G1691A,F5,11568114
+60,non-significant,"American (Caucasian)",C807T,ITGA2,11568114
+61,significant,"American (Caucasian)",T1565C,ITGB3,11568114
+62,non-significant,"American (Caucasian)",C677T,MTHFR,11568114
+63,non-significant,"American (Caucasian)",20210G/A,F2,11568114
+64,non-significant,"American (Caucasian)",I/D,ACE,11568114
+65,non-significant,Danish,I/D,ACE,11602206
+66,significant,Danish,M/T235,AGT,11602206
+67,non-significant,Danish,20210G/A,F2,11602206
+68,non-significant,Danish,F7,F7,11602206
+69,non-significant,Danish,-455G/A,FGB,11602206
+70,significant,"Chinese (Uighur in Xinjiang)",E2/E3/E4,APOE,11640949
+71,non-significant,Finnish,IL10,IL10,11640949
+72,non-significant,Finnish,-889C/T,IL1A,11640949
+73,non-significant,Finnish,IL1B,IL1B,11640949
+74,non-significant,Finnish,IL1RN,IL1RN,11640949
+75,non-significant,Finnish,IL6,IL6,11640949
+76,non-significant,Finnish,-308G/A,TNF,11640949
+77,non-significant,Italian,IGF2,IGF2,11672987
+78,non-significant,Italian,"FokI RFLP",INS,11672987
+79,significant,"Chinese (Uighur, Kazakh and Han in Xinjiang)",I/D,ACE,11773214
+80,non-significant,"American (Caucasians) and Italian",BRCA1,BRCA1,11795532
+81,significant,Italian,874T/A,IFNG,11857058
+82,significant,Italian,-1082G/A,IL10,11857058
+83,significant,"Italian (Sicily)",C282Y,HFE,11857058
+84,non-significant,"Italian (Northern)",FAS,FAS,11965496
+85,non-significant,"Italian (Northern)",FASLG,FASLG,11965496
+86,significant,Italian,Q192R,PON1,12082503
+87,non-significant,Polish,I/D,ACE,12152254
+88,non-significant,Brazilian,E2/E3/E4,APOE,12185856
+89,significant,Italian,TH,TH,12297342
+90,non-significant,Chinese,5178A,ND2,12384792
+91,significant,Danish,I/D,ACE,12547486
+92,non-significant,"Italian (Southern)",APOC3-SstI-RFLP,APOC3,12556235
+93,significant,"Italian (Southern)",APOA1-MspI-RFLP,APOA1,12556235
+94,non-significant,"Italian (Southern)",APOA4-HincII-RFLP,APOA4,12556235
+95,significant,Japanese,"(GT)n repeat",HMOX1,12566526
+96,non-significant,Japanese,R219K,ABCA1,12601526
+97,non-significant,Japanese,CETP,CETP,12601526
+98,non-significant,Japanese,C-514T,LIPC,12601526
+99,non-significant,Japanese,LPL,LPL,12601526
+100,non-significant,Korean,I/D,ACE,12634288
+101,non-significant,Korean,E2/E3/E4,APOE,12634288
+102,significant,"American (Caucasian)",AKAP10,AKAP10,12646697
+103,significant,Italian,-1082G/A,IL10,12676903
+104,non-significant,Italian,-308G/A,TNF,12676903
+105,non-significant,"Italian (Northern and Central)",-511C/T,IL1B,12714264
+106,non-significant,"Italian (Northern and Central)",IL1RN,IL1RN,12714264
+107,non-significant,"Italian (Nothern and Central)",-889C/T,IL1A,12714264
+108,non-significant,"Irish (Northern)",-174C/G,IL6,12714267
+109,significant,Irish,T2437C,HSPA1L,12714268
+110,non-significant,Irish,IFNG,IFNG,12714268
+111,non-significant,Irish,-1082G/A,IL10,12714268
+112,non-significant,Irish,IL12A,IL12A,12714268
+113,non-significant,Irish,-330T/G,IL2,12714268
+114,non-significant,Irish,-174C/G,IL6,12714268
+115,non-significant,Irish,IL8,CXCL8,12714268
+116,non-significant,"Irish (Belfast)",HLA-A,HLA-A,12714268
+117,non-significant,"Irish (Belfast)",HLA-B,HLA-B,12714268
+118,non-significant,"Irish (Belfast)",HLA-DRB3,HLA-DRB3,12714268
+119,non-significant,"Irish (Belfast)",252A/G,LTA,12714268
+120,non-significant,"Irish (Belfast)",-308G/A,TNF,12714268
+121,non-significant,Italian,97347T/C,FOXO1,12843179
+122,non-significant,Italian,IRS1,IRS1,12843179
+123,non-significant,Italian,PIK3CB,PIK3CB,12843179
+124,significant,French,Q192R,PON1,12889841
+125,non-significant,"Italian, French and Danish",I/D,ACE,12954489
+126,non-significant,American,I550V,SLC13A2,14499494
+127,significant,"Italian (Southern)",-110A/C,HSPA1A,14501185
+128,significant,"Brazilian of European and Japanese origin",I/D,ACE,14528043
+129,non-significant,Japanese,SHC1,SHC1,14530863
+130,significant,"Ashkenazi Jewish ",I405V,CETP,14559957
+131,significant,"Italian (Southern)",G477T,SIRT3,14580859
+132,significant,"Russian (Novosibirsk)",I/D,ACE,14743603
+133,significant,"Russian (Novosibirsk)",E2/E3/E4,APOE,14743603
+134,non-significant,Dutch,Met(410)Val,SHC1,15036421
+135,significant,"Italian and N. Irish",Q192R,PON1,15050299
+136,non-significant,Bulgarian,HLA-A,HLA-A,15050300
+137,non-significant,Bulgarian,HLA-B,HLA-B,15050300
+138,non-significant,Bulgarian,HLA-C,HLA-C,15050300
+139,non-significant,Bulgarian,874T/A,IFNG,15050300
+140,non-significant,Bulgarian,-174C/G,IL6,15050300
+141,non-significant,Bulgarian,TGFB1,TGFB1,15050300
+142,non-significant,Bulgarian,-308G/A,TNF,15050300
+143,non-significant,Irish,KIR3DL1,KIR3DL1,15130674
+144,non-significant,Danish,GP1BA,GP1BA,15177664
+145,non-significant,Danish,114A/V,MTHFR,15177664
+146,non-significant,Danish,"1-bp guanine deletion/insertion (4G/5G)",SERPINE1,15177664
+147,significant,"German ",V432L,CYP1B1,15177664
+148,non-significant,"German ",GSTM1,GSTM1,15177664
+149,non-significant,"German ",I105V,GSTP1,15177664
+150,non-significant,"German ",GSTT1,GSTT1,15177664
+151,significant,Danish,-110A/C,HSPA1A,15190186
+152,non-significant,Danish,2437T/C,HSPA1L,15190186
+153,significant,"Italian (Sicily)",-107T/C,PON1,15236768
+154,significant,Italian,PPARG,PPARG,15236769
+155,non-significant,"Italian (Southern)",-174C/G,IL6,15236771
+156,non-significant,Danish,-262C/T,CAT,15241482
+157,significant,Danish,-174C/G,IL6,15241482
+158,significant,Danish,Q192R,PON1,15241482
+159,non-significant,Danish,-308G/A,TNF,15271127
+160,significant,Dutch,ER22/23EK,NR3C1,15276593
+161,non-significant,Irish,KIR3DL1,KIR3DL1,15288696
+162,non-significant,"Italian (Sardinia)",874T/A,IFNG,15462469
+163,non-significant,"Italian (Sardinia)",-1082G/A,IL10,15462469
+164,non-significant,"Italian (Sardinia)",-174C/G,IL6,15462469
+165,significant,Italian,Asp299Gly,TLR4,15547160
+166,significant,"Chinese (Uighur in Xinjiang)",I/D,ACE,15569453
+167,non-significant,Japanese,FOXO1,FOXO1,15582274
+168,significant,Japanese,INSR,INSR,15582274
+169,non-significant,Japanese,IRS1,IRS1,15582274
+170,non-significant,Japanese,PIK3CB,PIK3CB,15582274
+171,non-significant,Japanese,PIK3CG,PIK3CG,15582274
+172,non-significant,Japanese,PPARGC1A,PPARGC1A,15582274
+173,non-significant,"Ashkenazi Jewish (Jerusalem)",E2/E3/E4,APOE,15621215
+174,non-significant,"Ashkenazi Jewish (Jerusalem)","Arg/Gln R353Q",F7,15621215
+175,significant,"Ashkenazi Jewish (Jerusalem)","A/G ApaI site",IGF2,15621215
+176,non-significant,"Ashkenazi Jewish (Jerusalem)",C677T,MTHFR,15621215
+177,non-significant,"Ashkenazi Jewish (Jerusalem)",C9T,SOD2,15621215
+178,significant,Finnish,-174C/G,IL6,15664628
+179,significant,"Italian (Southern)",VNTR,SIRT3,15676284
+180,significant,Dutch,GH1,GH1,15771611
+181,non-significant,Dutch,GHRHR,GHRHR,15771611
+182,non-significant,Dutch,IGF1,IGF1,15771611
+183,non-significant,Dutch,INS,INS,15771611
+184,non-significant,Dutch,IRS1,IRS1,15771611
+185,non-significant,Dutch,16C/T,SOD2,15771611
+186,non-significant,Dutch,UCP2,UCP2,15771611
+187,non-significant,Italian,I405V,CETP,15888337
+188,significant,"American (Caucasian)",-438A/G,CPB2,15939070
+189,non-significant,"American (Caucasian)",-455G/A,FGB,15939070
+190,non-significant,"American (Caucasian)",-174C/G,IL6,15939070
+191,non-significant,"American (Caucasian)","1-bp guanine deletion/insertion (4G/5G)",SERPINE1,15939070
+192,significant,"Chinese (Uighur in Xinjiang)",E2/E3/E4,APOE,16086293
+193,significant,Japanese,SLC6A4,SLC6A4,16095668
+194,significant,"German ",D919G,MTR,16142417
+195,non-significant,"German ",SIRT1,SIRT1,16257164
+196,non-significant,Mexican,HLA-B,HLA-B,16269080
+197,non-significant,Mexican,HLA-DQA1,HLA-DQA1,16269080
+198,non-significant,Mexican,HLA-DRB1*11,HLA-DRB1,16269080
+199,significant,Mexican,-308G/A,TNF,16269080
+200,significant,"Italian (Sicily)",M694V,MEFV,16387839
+201,significant,Japanese,-819C/T,IL10,16424284
+202,non-significant,Japanese,-607A/C,IL18,16424284
+203,non-significant,Japanese,-511C/T,IL1B,16424284
+204,non-significant,Japanese,-634C/G,IL6,16424284
+205,non-significant,Japanese,"-1607 1G/2G",MMP1,16424284
+206,non-significant,Japanese,"-1171 5A/6A",MMP3,16424284
+207,non-significant,Japanese,869T/C,TGFB1,16424284
+208,non-significant,Japanese,-1031T/C,TNF,16424284
+209,non-significant,"Italian (Central and Southern)",-330T/G,IL2,16518704
+210,non-significant,English,T241M,XRCC3,16518718
+211,non-significant,English,I134T,XRCC4,16518718
+212,non-significant,English,XRCC5,XRCC5,16518718
+213,non-significant,Danish,GSTM1,GSTM1,16574194
+214,significant,Danish,GSTT1,GSTT1,16574194
+215,significant,"Ashkenazi Jewish ",rs2542052,APOC3,16602826
+216,non-significant,"Italian (Sicily)",1249-1250InsACAA/Non-Ins,TGFB2,16608413
+217,non-significant,"Italian (Sardinia)",HLA-DQA1,HLA-DQA1,16608414
+218,non-significant,"Italian (Sardinia)",HLA-DQB1,HLA-DQB1,16608414
+219,significant,Italian,YTHDF2,YTHDF2,16799135
+220,significant,Danish,-110A/C,HSPA1A,16804002
+221,significant,Danish,1267A/G,HSPA1B,16804002
+222,non-significant,"German ",FCGR2A-His131Ar,FCGR2A,16893392
+223,significant,Italian,647A/C,MT1A,16955215
+224,significant,"Italian (Southern)",I/D,ACE,16960022
+225,significant,"Italian (Southern)",E2/E3/E4,APOE,16960022
+226,non-significant,"German ",CNDP1,CNDP1,16965804
+227,significant,Columbian,I/D,ACE,16971231
+228,non-significant,Columbian,APOE,APOE,16971231
+229,significant,"Italian (Sicily)",SERPINE1,SERPINE1,17048073
+230,non-significant,Italian,I/D,ACE,17182125
+231,significant,Greek,E2/E3/E4,APOE,17234815
+232,significant,Italian,rs5744256,IL18,17301041
+233,non-significant,"German ",Asp299Gly,TLR4,17493663
+234,non-significant,"Ashkenazi Jewish ",IGF1,IGF1,18316725
+235,significant,Italian,KL-VS,KL,19421891
+236,significant,Polish,Lys751Gln,ERCC2,19707883
+237,non-significant,"Ashkenazi Jewish ",TSHB,TSHB,19837933
+238,significant,"Mediterranean (Italian, Greek and Tunisian)",CHIT1,CHIT1,19881466
+239,significant,Italian,Gly1057Asp-IRS2,IRS2,19887537
+240,significant,"Ashkenazi Jewish ",TERC,TERC,19915151
+241,significant,"Ashkenazi Jewish ",TERT,TERT,19915151
+242,significant,Italian,ADA*2,ADA2,20174870
+243,non-significant,"Chinese (Han)",IGF1,IGF1,20199671
+244,significant,Jordanian,rs1501299,ADIPOQ,20201642
+245,significant,Jordanian,rs7799039,LOC105375494,20201642
+246,non-significant,Caucasians,rs9664222,MINPP1,20304771
+247,significant,"Italian (Palermo)",DRB1*18,HLA-DRB1,20426625
+248,significant,Jordanian,-1082G/A,IL10,20518833
+249,non-significant,Jordanian,-308G/A,TNF,20518833
+250,significant,"American (Georgia and Louisiana populations from African and European origin)",APOE,APOE,20569235
+251,significant,"Italian (Salerno)",rs4646,CYP19A1,20819792
+252,significant,"Italian (Salerno)",ESR1,ESR1,20819792
+253,significant,"American (Caucasian)",rs7896005,SIRT1,21972126
+254,non-significant,"American (Caucasian)",rs132793,XRCC6,21972126
+255,significant,Greek,rs1799752,ACE,23389097
+256,significant,"American (Caucasian)",rs3803304,AKT1,19489743
+257,non-significant,"German ",TH01,TH,21407269
+258,significant,"American (Caucasian)",,TP53,20824210
+261,non-significant,"American (Caucasian)",,TP53,20824210
+262,significant,Danish,rs1002149,GSR,22406557
+263,significant,Danish,rs1207362,KL,22406557
+264,significant,Danish,rs2267723,GHRHR,22406557
+265,significant,Danish,rs3842755,INS,22406557
+266,significant,Danish,rs572169,GHSR,22406557
+267,significant,Danish,rs9456497,IGF2R,22406557
+268,significant,Danish,rs11571461,RAD52,22406557
+269,significant,Danish,rs13251813,WRN,22406557
+270,significant,Danish,rs1805329,RAD23B,22406557
+271,significant,Danish,rs2953983,POLB,22406557
+272,significant,Danish,rs3211994,SLC9A3R2,22406557
+273,significant,Danish,rs10047589,TXNRD1,22406557
+274,significant,Danish,rs207444,XDH,22406557
+275,significant,Danish,rs26802,GHRL,22406557
+276,significant,Danish,rs13320360,MLH1,22406557
+277,significant,Danish,rs2509049,H2AFX,22406557
+278,significant,Danish,rs705649,XRCC5,22406557
+279,significant,Dutch,rs2498804,LOC107987209,21418511
+280,significant,European,,TP53,23286790
+281,significant,European,,TP53,23286790
+282,significant,European,,TP53,23286790
+283,significant,European,,TP53,23286790
+284,significant,European,rs4420638,APOC1,23286790
+285,significant,Polish,"-11391G > A",ADIPOQ,23339001
+286,significant,"American (Caucasian)",rs2075650,TOMM40,22279548
+287,significant,"American (Caucasian)",D4S1564,TP53,11526246
+288,significant,"Italian (Central)",rs73598374,ADA,21865054
+289,significant,"Italian (Central)",rs1042522,TP53,23125046
+290,significant,"Italian (Central)",MNS16A,TERT,23562826
+291,non-significant,"Italian (Central)",PTPN22,PTPN22,21113673
+292,significant,Chinese,I/D,ACE,22456784
+293,non-significant,Chinese,,TP53,19641616
+294,significant,"Danish, German",rs3803304,AKT1,22929028
+295,non-significant,"Danish, German, Dutch",rs2069827,IL6,22234866
+296,significant,"Danish, German, Dutch",rs107251,SIRT6,22234866
+297,significant,"American (Caucasian)","DRD4 7R",DRD4,23283341
+298,significant,"American (Caucasian)",rs2024714,CDH4,22533364
+299,significant,"American (Caucasian)",rs9616906,TP53,22533364
+300,significant,"American (Caucasian)",rs1327533,SVEP1,22533364
+301,significant,"American (Caucasian)",rs9876781,ATRIP,22533364
+302,significant,"American (Caucasian)",rs2370413,CACNA1C,22533364
+303,significant,"American (Caucasian)",rs739401,CARS,22533364
+304,significant,"American (Caucasian)",rs12623542,LINC01237,22533364
+305,significant,"American (Caucasian)",rs9517320,STK24,22533364
+306,significant,"American (Caucasian)",rs10256972,C7orf50,22533364
+307,significant,"American (Caucasian)",rs139170,PARVG,22533364
+308,significant,"American (Caucasian)",rs2826891,NCAM2,22533364
+309,significant,"American (Caucasian)",rs10937739,PPP2R2C,22533364
+310,significant,"American (Caucasian)",rs41383,NLRC5,22533364
+311,significant,"American (Caucasian)",rs1974676,HPCAL1,22533364
+312,significant,"American (Caucasian)",rs3800358,BTBD9,22533364
+313,significant,"American (Caucasian)",rs13008689,TP53,22533364
+314,significant,"American (Caucasian)",rs13053175,SSTR3,22533364
+315,significant,"American (Caucasian)",rs16975963,LOC100631378,22533364
+316,significant,"American (Caucasian)",rs10819510,TP53,22533364
+317,significant,"American (Caucasian)",rs432203,TGFA,22533364
+318,significant,"American (Caucasian)",rs3120819,TP53,22533364
+319,significant,"American (Caucasian)",rs2590504,PPP1R26-AS1,22533364
+320,significant,"American (Caucasian)",rs4148544,ABCC4,22533364
+321,significant,"American (Caucasian)",rs1834497,CLSTN2,22533364
+322,significant,"American (Caucasian)",rs1205035,TP53,22533364
+323,significant,"American (Caucasian)",rs5771675,FAM19A5,22533364
+324,significant,"American (Caucasian)",rs4648884,RUNX3,22533364
+326,non-significant,"American (Caucasian)",rs1042713,ADRB2,20399803
+327,non-significant,"Chinese (Guangxi Bama)",mt146A,TP53,22729909
+328,significant,"Chinese (Han)",rs189037,ATM,20816691
+329,significant,Italian,rs3851179,PICALM,21297266
+330,significant,Italian,rs2229765,IGF1R,22115178
+331,non-significant,Italian,rs1800795,IL6,22115178
+332,significant,Italian,rs10491334,CAMK4,21612516
+333,significant,Italian,rs429358,APOE,21612516
+334,non-significant,"English (Newcastle)",,TP53,23639206
+335,non-significant,Polish,PRNP,PRNP,23406923
+336,significant,Polish,rs10524523,TOMM40,22008263
+337,significant,"Italian (Southern)",rs660339,UCP2,22216339
+338,significant,"Italian (Southern)",rs9472817,SLC25A27,22216339
+339,non-significant,"Italian (Southern)",rs2235800,SLC25A14,22216339
+340,,"Italian (Southern)",rs6166,FSHR,22985084
+341,significant,"Italian (Southern)",Pro12Ala,PPARG,22985084
+342,significant,"Italian (Southern)",rs978739,TAS2R16,23133589
+343,significant,"Italian (Southern)",rs1879417,NOS1,23572278
+344,non-significant,Spanish,rs333,CCR5,22265023
+345,non-significant,Spanish,rs1815739,ACTN3,21407828
+346,significant,"Spanish and Italian",rs1805086,MSTN,23354683
+347,non-significant,"American (Utah)",D3S3547,TP53,22506048
+348,non-significant,"American (Utah)",,TP53,22506048
+349,non-significant,"American (Utah)",,TP53,22506048
+350,non-significant,"American (Utah)",,TP53,22506048
+351,significant,"Chinese (Zhuang)","haplogroup F",ND5,21945877
+352,significant,Japanese,Mt5178A/C,ND2,9449878
+353,significant,Japanese,Mt8414C/T,ATP8,9449878
+354,significant,Japanese,Mt3010G/A,RNR2,9449878
+355,significant,Turkish,rs1800795,IL6,21277639
+356,significant,Turkish,rs28366003,MT2A,21277639
+357,significant,"Italian (Central)",HP,HP,21147083
+358,non-significant,Spanish,rs1937,TFAM,23186209
+359,significant,"Danish, American",rs2075650,TOMM40,23040522
+360,significant,Italian,rs189037,ATM,22960875
+361,significant,"American (Amish) ",rs205990,LOC105378102,22773346
+362,significant,"Italian (Southern)",rs282070,MAP3K7,22576335
+363,significant,"Italian (Southern)",rs2111699,GSTZ1,22576335
+364,significant,"American, English, Irish",rs2075650,TOMM40,22445811
+365,significant,Russian,rs507879,CASP5,20434535
+366,non-significant,"Chinese (Han)",MtC150T,TP53,21262335
+367,non-significant,Jordanian,-9T/C,SOD2,20003469
+368,non-significant,Jordanian,677C/T,MTHFR,20003469
+369,significant,Danish,rs4880,SOD2,19428448
+370,significant,Danish,rs1050450,GPX1,19428448
+371,significant,Japanese,14979C,TP53,18545700
+372,significant,"Italian (Northern)",VEGFA,VEGFA,17574707
+373,significant,"Ashkenazi Jewish, Czechs (Bohemian)",KL-VS,KL,15677572
+374,significant,"Ashkenazi Jewish ",CETP,CETP,15621216
+375,significant,Finnish,,TP53,12483296
+376,significant,"Italian (Sicily)",C282Y,HFE,11857056
+377,significant,Italian,874T/A,IFNG,11772518
+378,significant,"Irish (Belfast)",E2/E3/E4,APOE,11470126
+379,significant,Italian,,TP53,10463944
+380,significant,"Chinese (Han)",E2/E3/E4,APOE,9792194
+381,significant,Japanese,HLA-DQA1,HLA-DQA1,2889033
+382,significant,Japanese,HLA-DRB1,HLA-DRB1,2889033
+383,significant,Irish,T2437C,HSPA1L,12742533
+384,significant,Danish,rs1042522,TP53,18256523
+385,significant,"Italian (Northern)",rs1333049,TP53,20230275
+386,significant,Dutch,rs12778366,SIRT1,23505545
+387,significant,"European (Danish, Finnish, South Italian and Greek)",,TP53,24341918
+388,significant,Caucasian,-374T/A,AGER,24284407
+389,significant,Spanish,E4,UBE4B,24534555
+391,non-significant,Chinese,I405V,CETP,24746514
+392,significant,Spanish,rs1333049,TP53,24163049
+393,significant,European,rs4420638,APOC1,24688116
+394,non-significant,"Italian (Northern)",rs3825075,SIRT3,23839864
+395,significant,Japanese,rs1333049,TP53,24163049
+396,significant,European,rs2149954,LINC02227,24688116
+551,significant,Italian,Hinf347,APOA4,9622284
+555,significant,Chinese,E4,UBE4B,24746514
+556,significant,"American (Caucasian)",rs1042714,ADRB2,20399803
+557,non-significant,"American (Caucasian)",,TP53,20824210
+558,non-significant,"American (Caucasian)",,TP53,20824210
+559,significant,French,E2/E3/E4,APOE,8136829
